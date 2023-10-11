@@ -1,6 +1,7 @@
 # bloc_number
 
-A new Flutter project.
+Pasar parametros por medio de eventos a bloc counter
+
 
 ## Getting Started
 
